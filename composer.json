@@ -1,0 +1,15 @@
+{
+    "name": "rjmas/mvc",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "R.J Husnain",
+            "email": "rjmaster261@gmail.com"
+        }
+    ],
+    "require": {}
+}
