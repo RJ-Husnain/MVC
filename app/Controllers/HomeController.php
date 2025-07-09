@@ -4,7 +4,7 @@ require_once __DIR__ . '/../helper.php';
 
 class HomeController{
     public function index(){
-        echo 'Home Controller Index Function';
+        echo 'Welcome to Home';
     }
 }
 
